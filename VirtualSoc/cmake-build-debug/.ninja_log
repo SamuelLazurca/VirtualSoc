@@ -1,0 +1,21 @@
+# ninja log v5
+1	725	1673341464109444784	CMakeFiles/server.dir/Server.cpp.o	e80db5400b31d211
+2	208	1672664006783857701	CMakeFiles/server.dir/DataBase.cpp.o	b8e5ac7790cc3ba1
+219	287	1673041316325392389	client	a62f8f953fcfa487
+31	57	1673341399111619550	db_script	5c598f5c2a22aae5
+0	20	1673342178281594737	build.ninja	91d4ec1fb1ac2fe1
+0	524	1673307739500686793	CMakeFiles/server.dir/server.cpp.o	fdc955f25a6f6c00
+0	219	1673041316257392117	CMakeFiles/client.dir/ClientAction.cpp.o	8e58aa137cc8d23e
+1	40	1672314019886867330	CMakeFiles/server.dir/SocketAction.cpp.o	e6ed63be63aff126
+0	256	1673297082587676160	CMakeFiles/server.dir/DataBaseAction.cpp.o	e60607ccd637214
+1	31	1673341399079560337	CMakeFiles/db_script.dir/db_script.cpp.o	1dd2a23987b79287
+0	206	1673040896520091151	CMakeFiles/client.dir/client.cpp.o	a4c6b5ba90e31b74
+1	208	1673300548508620186	CMakeFiles/server.dir/Client.cpp.o	83ce3055a9b63dbe
+726	817	1673341464201493099	server	2a1bcefa44774bf
+2	47	1673342180490148513	CMakeFiles/server.dir/SocketAction.cpp.o	af1dee30eb672f24
+3	256	1673342180698197328	CMakeFiles/server.dir/DataBase.cpp.o	e86227c0058f1bac
+2	279	1673342180722202961	CMakeFiles/server.dir/DataBaseAction.cpp.o	3e8e5d70a1ee1082
+2	282	1673342180726203900	CMakeFiles/server.dir/Client.cpp.o	3ad617112c4b66f5
+1	410	1673342180854233940	CMakeFiles/server.dir/server.cpp.o	b4c2a66f755317ec
+2	703	1673342181146300460	CMakeFiles/server.dir/Server.cpp.o	250794a6e199ef90
+703	806	1673342181246322531	server	2a1bcefa44774bf

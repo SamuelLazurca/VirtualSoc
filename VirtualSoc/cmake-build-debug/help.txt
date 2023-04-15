@@ -1,0 +1,93 @@
+Welcome to VirtualSoc help section!
+
+The following commands are divided in 2 categories:
+
+I) commands for not connected users:
+
+login <USERNAME> <PASSWORD>
+
+    - available only when you're not logged in
+
+create account <NEW USERNAME> <NEW PASSWORD> <PAGE TYPE> <USER TYPE>
+
+    - available only when you're not logged in
+    - username and password must not contain whitespaces
+    - page type can be 'public' or 'private'
+    - user type can be 'regular' or 'administrator'
+
+show posts from <USERNAME>
+
+    - shows public posts from USERNAME
+
+quit
+
+    - exits the application
+
+II) commands for connected users only:
+
+logout
+
+    - available only when you're logged in
+
+quit
+
+    - exits the application
+
+post <POST TYPE> <CONTENT>
+
+    - <POST TYPE> can have these values that have to be written in these exact form:
+        * public
+        * friends
+        * relatives
+        * close_friends
+        * known_ones
+        * relatives&close_friends
+        * relatives&known_ones
+        * close_friends&known_ones
+    - <CONTENT> represents what you want to post in a text format
+
+show posts from <USERNAME>
+
+    - shows posts published by <USERNAME> available for you
+
+my friends list
+    - shows a list of your friends
+
+send friend request <FRIEND_TYPE> <USERNAME>
+
+    - works only if you're not friend with <USERNAME>
+    - <FRIEND_TYPE> can have these values that have to be written in these exact form:
+        * relative
+        * close_friend
+        * known_one
+
+accept friend request from <USERNAME>
+
+    - works only if <USERNAME> sent a friend request to you
+
+friend requests
+
+    - shows a list with users that sent friend requests to you
+
+write <USERNAME>
+
+    - opens a private conversation with <USERNAME>
+    - <USERNAME> must be your friend
+
+exit conv
+
+    -exits the current conversation
+
+enter group <GROUPNAME>
+
+    - works only if you are part of <GROUPNAME>
+
+exit group
+
+    - exits the current group conversation
+
+add member <USERNAME>
+
+    - adds a new member to the group you are in
+    - <USERNAME> must be a friend of yours
+    - the command only works if you are the group administrator

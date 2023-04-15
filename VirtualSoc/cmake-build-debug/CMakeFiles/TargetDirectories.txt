@@ -1,0 +1,5 @@
+/home/samuel/VirtualSoc/cmake-build-debug/CMakeFiles/server.dir
+/home/samuel/VirtualSoc/cmake-build-debug/CMakeFiles/client.dir
+/home/samuel/VirtualSoc/cmake-build-debug/CMakeFiles/db_script.dir
+/home/samuel/VirtualSoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/samuel/VirtualSoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
